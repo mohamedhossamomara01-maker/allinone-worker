@@ -1,0 +1,11 @@
+name = "allinone"
+main = "index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+SUPABASE_URL = "https://nkcfosifswvaoqlfliww.supabase.co"
+SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5rY2Zvc2lmc3d2YW9xbGZsaXd3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE2NjY3ODksImV4cCI6MjA5NzI0Mjc4OX0.mKg8mXOrfDayAKuGGm9GzU-F2jnONp8hb0tJ9XmsMCI"
+ALLOWED_ORIGIN = "https://mohamedhossamomara01-maker.github.io"
+DAILY_LIMIT = "20"
+GEMINI_MODEL = "gemini-2.5-flash"
+# الأسرار (SUPABASE_SERVICE_KEY و GEMINI_API_KEY) بتتحط من لوحة Cloudflare: Settings > Variables and Secrets
